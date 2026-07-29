@@ -2,7 +2,7 @@
 
 ### Cybersecurity Learner | IT Support Specialist | Junior SOC Analyst
 
-📍 Based in the UK | 🎓 MSc Cyber Security & Digital Forensics (University of Huddersfield) | 🎓 BSc Computer Science (SZABIST)
+🎓 MSc Cyber Security & Digital Forensics (University of Huddersfield) | 🎓 BSc Computer Science (SZABIST)
 
 I am a motivated cybersecurity learner with an IT support background and hands-on experience in network security, threat detection, and security monitoring. I enjoy building practical security labs, analysing network traffic, and developing skills in defensive cybersecurity, with a focus on Helpdesk, IT Support, and Junior SOC Analyst roles.
 
